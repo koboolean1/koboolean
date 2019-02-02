@@ -21,7 +21,7 @@
 						<div class="inner">
 
 							<!-- Logo -->
-								<a href="index.html" class="logo">
+								<a href="/" class="logo">
 									<span class="symbol"><img src="resources/images/logo.svg" alt="" /></span><span class="title">Phantom</span>
 								</a>
 
@@ -39,11 +39,11 @@
 					<nav id="menu">
 						<h2>Menu</h2>
 						<ul>
-							<li><a href="home.jsp">Home</a></li>
-							<li><a href="generic.jsp">Ipsum veroeros</a></li>
-							<li><a href="generic.jsp">Tempus etiam</a></li>
-							<li><a href="generic.jsp">Consequat dolor</a></li>
-							<li><a href="elements.jsp">Elements</a></li>
+							<li><a href="/">Home</a></li>
+							<li><a href="/login">Login</a></li>
+							<li><a href="/generic">Tempus etiam</a></li>
+							<li><a href="/generic">Consequat dolor</a></li>
+							<li><a href="/elements">Elements</a></li>
 						</ul>
 					</nav>
 
@@ -60,7 +60,7 @@
 									<span class="image">
 										<img src="resources/images/pic01.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Magna</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -71,7 +71,7 @@
 									<span class="image">
 										<img src="resources/images/pic02.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Lorem</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -82,7 +82,7 @@
 									<span class="image">
 										<img src="resources/images/pic03.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Feugiat</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -93,7 +93,7 @@
 									<span class="image">
 										<img src="resources/images/pic04.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Tempus</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -104,7 +104,7 @@
 									<span class="image">
 										<img src="resources/images/pic05.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Aliquam</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -115,7 +115,7 @@
 									<span class="image">
 										<img src="resources/images/pic06.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Veroeros</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -126,7 +126,7 @@
 									<span class="image">
 										<img src="resources/images/pic07.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Ipsum</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -137,7 +137,7 @@
 									<span class="image">
 										<img src="resources/images/pic08.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Dolor</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -148,7 +148,7 @@
 									<span class="image">
 										<img src="resources/images/pic09.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Nullam</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -159,7 +159,7 @@
 									<span class="image">
 										<img src="resources/images/pic10.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Ultricies</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -170,7 +170,7 @@
 									<span class="image">
 										<img src="resources/images/pic11.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Dictum</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
@@ -181,7 +181,7 @@
 									<span class="image">
 										<img src="resources/images/pic12.jpg" alt="" />
 									</span>
-									<a href="generic.jsp">
+									<a href="/generic">
 										<h2>Pretium</h2>
 										<div class="content">
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
