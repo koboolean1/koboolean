@@ -4,8 +4,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
+@RequestMapping(value="/generic")
 public class GenericController {
-		@RequestMapping(value="/generic")
+	@RequestMapping(value="")
 		public String generic() {
 			return "generic";
 		}
